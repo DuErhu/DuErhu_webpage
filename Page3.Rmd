@@ -1,0 +1,38 @@
+---
+title: "学术成果"
+output:
+  html_document:
+    df_print: paged
+---
+
+***
+
+## 论文：
+
+
+Erhu Du, Ximing Cai, Feng Wu, Timothy Foster, and Chunmiao Zheng*. 2021.  “Exploring the impacts of the inequality of water permit allocation and farmers’ behaviors on the performance of an agricultural water market”, Journal of Hydrology 599:126303
+
+Yuan, Shiwei, Xin Li*, Erhu Du*. 2021. “Effects of farmers’ behavioral characteristics on crop choices and responses to water management policies”. Agricultural Water Management  247:106693
+
+Erhu Du, Eddie Chen, Ji Liu, and Chunmiao Zheng*. 2020. “How do social media and individual behaviors affect epidemic transmission and control?” Science of the Total Environment 761:144114 
+
+Erhu Du, Yong Tian*, Ximing Cai, Yi Zheng, Xin Li, and Chunmiao Zheng*. 2020. “Exploring Spatial Heterogeneity and Temporal Dynamics of Human-Hydrological Interactions in Large River Basins with Intensive Agriculture: A Tightly Coupled, Fully Integrated Modeling Approach.” Journal of Hydrology 591: 125313. 
+
+Zheng, Yi, Yong Tian*, Erhu Du, Feng Han, Yajie Wu, Chunmiao Zheng, and Xin Li. 2020. “Addressing the Water Conflict between Agriculture and Ecosystems under Environmental Flow Regulation: An Integrated Modeling Study.” Environmental Modelling & Software 134: 104874.
+
+Shi, Haiyun*, Erhu Du, Suning Liu, and Kwok-wing Chau. 2020. “Advances in Flood Early Warning: Ensemble Forecast, Information Dissemination and Decision-Support Systems.” Hydrology 7 (3): 56.
+
+Liu, Ji*, Philip Pare, Erhu Du, and Zhiyong Sun. 2019. “A Networked SIS Disease Dynamics Model with a Waterborne Pathogen.” IEEE Proceedings of the American Control Conference, 2735–40.  
+
+Erhu Du*, Ximing Cai, Zhiyong Sun, and Barbara Minsker. 2017. “Exploring the Role of Social Media and Individual Behaviors in Flood Evacuation Processes: An Agent-Based Modeling Approach.” Water Resources Research 53 (11): 9164–80.
+
+Erhu Du*, Ximing Cai, Nicholas Brozović, and Barbara Minsker. 2017. “Evaluating the Impacts of Farmers’ Behaviors on a Hypothetical Agricultural Water Market Based on Double Auction.” Water Resources Research 53 (5): 4053–72.
+
+Erhu Du*, Samuel Rivera, Ximing Cai, Laura Myers, Andrew Ernest, and Barbara Minsker. 2017. “Impacts of Human Behavioral Heterogeneity on the Benefits of Probabilistic Flood Warnings: An Agent-Based Modeling Framework.” Journal of the American Water Resources Association 53 (2): 316–32. 
+
+原世伟，李新*，杜二虎. (2021). “多主体建模在水资源管理中的应用：进展与展望”. 地球科学进展，36(9), 899-910.
+
+闫猛, 杜二虎, 王宗志, 张倩, 吴锋*. (2018). “行为经济与自然过程耦合视角下的水资源复杂系统建模研究”. 水资源与水工程学报, 29(6), 53–60.  
+
+***
+

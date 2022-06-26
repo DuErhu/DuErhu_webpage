@@ -1,0 +1,20 @@
+name: "My Website"
+output_dir: "docs"  # docs directory of master branch
+navbar:
+  title: "杜二虎课题组"
+  type: inverse
+  left:
+    - text: "教师主页"
+      href: index.html
+    - text: "团队成员"
+      href: Page1.html
+    - text: "科研项目"
+      href: Page2.html
+    - text: "学术成果"
+      href: Page3.html      
+ 
+output:
+  html_document:
+    theme: yeti
+    highlight: pygments
+    
